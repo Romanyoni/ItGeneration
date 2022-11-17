@@ -1,5 +1,3 @@
-//        Написати програму, яка визначить и виведе усі прості числа в діапазоні від
-//        1 до n (число n вводиться у консоль).
 public class SubTask5
 {
     public static void main(String[] args)
